@@ -72,6 +72,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 ## Productivity
 
+- [Asyar]([https://github.com/kunkunsh/kunkun](https://github.com/Xoshbin/asyar)) - The power of Raycast. The speed of Alfred. Privacy by design.
 - [Kunkun](https://github.com/kunkunsh/kunkun) - Extensible cross-platform launcher with a plugin system.
 - [Readest](https://github.com/readest/readest) - Modern, feature-rich ebook reader focused on immersive reading. (Commercial)
 - [Team Times Viewer](https://kmuncie.com/team-times) - Shows which teammates are working right now, based on their schedules and time zones. Syncs across Mac, iPhone and iPad with iCloud. Closed-source. (Paid)
